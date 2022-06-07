@@ -22,8 +22,7 @@
 .header-menu a {
   padding: 16px 0px;
   display: inline-block;
-  font-size: 18px;
-  position: relative;
+  position: relative; 
 }
 
 .header-menu a::after {

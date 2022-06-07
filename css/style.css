@@ -11,5 +11,8 @@
 
 @import "./utilidades/cores.css"; 
 
+/* Biciletas */ 
+
+@import "./bicicletas/bicicletas-listas.css"; 
 
 
