@@ -11,6 +11,8 @@
 
 @import "./utilidades/cores.css"; 
 
+@import "./home/tecnologia.css";
+
 /* Biciletas */ 
 
 @import "./bicicletas/bicicletas-listas.css"; 
